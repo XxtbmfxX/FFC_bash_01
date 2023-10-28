@@ -69,3 +69,5 @@ diff --color kitty_ipsum_1.txt doggy_ipsum_1.txt
 cat doggy_ipsum_2.txt
 diff kitty_ipsum_2.txt doggy_ipsum_2.txt
 diff --color kitty_ipsum_2.txt doggy_ipsum_2.txt
+git add .
+git commit -am "first commit"
